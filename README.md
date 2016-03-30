@@ -1,5 +1,5 @@
 # input devices
-Included in this repo are basic C++ objects for reading the state of keyboard, mouse, and joystick input devices under Linux through the nodes managed by udev.
+Included in this repo are basic C++ objects for reading the state of keyboard, mouse, joystick, and multi-touch input devices under Linux through the nodes managed by udev.
 
 # License
 The MIT License (MIT)
